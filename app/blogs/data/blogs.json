@@ -1,0 +1,80 @@
+[
+    {
+       "id": "how-meta-improved-cache-consistency",
+       "title": "How meta improved their cache consistency to 99.99999999",
+       "imageSrc": "blogs/meta_cache.jpg",
+       "description": "This blog explains how meta improved their cache consistency to 99.99999999",
+       "source": "blogs/how-meta-improved-cache-consistency.md"
+    },
+        {
+       "id": "how-instagram-selects-what-you-see",
+       "title": "Here is How Instagram Selects what you see in Explore page",
+       "imageSrc": "blogs/instagram.png",
+       "description": "This blog explains how instagram make sure that you see the best content",
+       "source": "blogs/how-instagram-selects-what-you-see.md"
+    },
+    {
+       "id": "composition-vs-inheritance-in-cricket-terms",
+       "title": "Composition VS Inheritance in Cricket terms",
+       "imageSrc": "blogs/Virat.png",
+       "description": "This blog explains how why composition is better than inheritance using cricket analogy",
+       "source": "blogs/composition-vs-inheritance-in-cricket-terms.md"
+    },
+    {
+       "id": "how-twitter-improved-events-processing",
+       "title": "How twitter improved the processing of events",
+       "imageSrc": "blogs/twitter.png",
+       "description": "This blog explains twitter processes 400 billion events daily",
+       "source": "blogs/how-twitter-improved-events-processing.md"
+    },
+    {
+       "id": "how-meta-solved-thundering-herd-problem",
+       "title": "How Facebook solved Thundering Hed Problem",
+       "imageSrc": "blogs/thundering.png",
+       "description": "Dive deep on how facebook handles sudden burst of traffic",
+       "source": "blogs/how-meta-solved-thundering-herd-problem.md"
+    },
+    {
+       "id": "behind-the-scenes-of-github-copilot",
+       "title": "Behind the scenes of github copilot",
+       "imageSrc": "blogs/github_coplilot.png",
+       "description": "This blog explains github copilot works behind the scenes",
+       "source": "blogs/behind-the-scenes-of-github-copilot.md"
+    },
+    {
+       "id": "what-is-tcp-3-way-handshake",
+       "title": "What is TCP 3 way Handshake",
+       "imageSrc": "blogs/tcp.png",
+       "description": "This blog explains how tcp connection is established",
+       "source": "blogs/what-is-tcp-3-way-handshake.md"
+    },
+    {
+       "id": "how-vpn-protects-your-identity",
+       "title": "How VPN protects your identity",
+       "imageSrc": "blogs/VPN.png",
+       "description": "Expalnation of how three-way communication works with VPN",
+       "source": "blogs/how-vpn-protects-your-identity.md"
+    },
+    {
+       "id": "how-real-time-document-check-works",
+       "title": "How Real Time Document Check Works",
+       "imageSrc": "blogs/document.png",
+       "description": "Expalnation of how real time document check works",
+       "source": "blogs/how-real-time-document-check-works.md"
+    },
+    {
+       "id": "what-is-Lambda-Architecture",
+       "title": "What is Lambda Architecture",
+       "imageSrc": "blogs/Lambda_architecture.png",
+       "description": "What is Lambda Architecture? Lets us understand the Lambda Architecture in detail.",
+       "source": "blogs/what-is-Lambda-Architecture.md"
+    },
+    {
+       "id": "dll-not-found",
+       "title": "What is DLL not found error?",
+       "imageSrc": "blogs/gta.png",
+       "description": "Ever Faced DLL Not Found Error While Running Your PC Game as a child? Let's See What That was!",
+       "source": "blogs/dll-not-found.md"
+    }
+  
+]

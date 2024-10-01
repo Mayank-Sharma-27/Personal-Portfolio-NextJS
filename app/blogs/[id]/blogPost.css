@@ -1,0 +1,30 @@
+.blog-post pre {
+    background: #2c2c2e;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-size: 0.875em;
+    line-height: 1.5;
+    margin: 20px 0;
+    color: #e1e1e1;
+}
+
+.blog-post blockquote {
+    border-left: 4px solid #444;
+    padding-left: 16px;
+    color: #d1d1d1;
+    margin: 0;
+    font-style: italic;
+    background: #2c2c2e;
+    padding: 10px 16px;
+    border-radius: 4px;
+}
+
+.blog-post code {
+    background: #2c2c2e;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+    color: #e1e1e1;
+}
